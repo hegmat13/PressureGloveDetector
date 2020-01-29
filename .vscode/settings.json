@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/keithskopp/.platformio/penv/bin:/Users/keithskopp/.platformio/penv:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
