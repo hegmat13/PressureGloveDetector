@@ -1,1 +1,3 @@
 # PressureGloveDetector
+
+My team of 4 ECE students and I created a pressure sensing glove that runs on the Arduino Mega 2560 Microcontroller in order to help people suffering from nerve damage. The purpose of the glove is to prevent further nerve damage of subject by giving them the ability to gauge how much pressure they are applying. The glove detects varying levels of pressure with a Force Sensitive Resistor (FSR) through Analog to Digital Conversion (ADC), displaying the results to an LCD screen. An Adafruit I2C LCD Backpack was used to connect the LCD screen with the Microcontroller. We also used system architecture and circuit designs, communication protocols, and LiquidCrystal_I2C.h library functions in the creation of the glove.
